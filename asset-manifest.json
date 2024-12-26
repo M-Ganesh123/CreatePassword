@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/CreatePassword/static/css/main.31d6cfe0.css",
+    "main.js": "/CreatePassword/static/js/main.e2ff1a56.js",
+    "static/js/563.dac666e4.chunk.js": "/CreatePassword/static/js/563.dac666e4.chunk.js",
+    "index.html": "/CreatePassword/index.html",
+    "main.e2ff1a56.js.map": "/CreatePassword/static/js/main.e2ff1a56.js.map",
+    "563.dac666e4.chunk.js.map": "/CreatePassword/static/js/563.dac666e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.e2ff1a56.js"
+  ]
+}
